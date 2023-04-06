@@ -1,0 +1,12 @@
+[submodule "Bee2_SDK_Mesh/src/app/mesh/lib/common/xiaomi/api"]
+	path = Bee2_SDK_Mesh/src/app/mesh/lib/common/xiaomi/api
+	url = git@github.com:MiEcosystem/mijia_ble_api.git
+[submodule "Bee2_SDK_Mesh/src/app/mesh/lib/common/xiaomi/libs"]
+	path = Bee2_SDK_Mesh/src/app/mesh/lib/common/xiaomi/libs
+	url = git@github.com:MiEcosystem/mijia_ble_libs.git
+[submodule "Bee2_SDK_Mesh/board/evb/ble_xiaomi_remote_control/common"]
+	path = Bee2_SDK_Mesh/board/evb/ble_xiaomi_remote_control/common
+	url = git@github.com:MiEcosystem/mijia_ble_common.git
+[submodule "Bee2_SDK_Mesh/board/evb/mijia_ble_standard/mijia_ble_libs"]
+	path = Bee2_SDK_Mesh/board/evb/mijia_ble_standard/mijia_ble_libs
+	url = git@github.com:MiEcosystem/mijia_ble_libs.git
