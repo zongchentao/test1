@@ -1,5 +1,3 @@
-# MIoT-Mesh-Realtek
-
 ## Partition Table
 
 |    Name  | Size |
