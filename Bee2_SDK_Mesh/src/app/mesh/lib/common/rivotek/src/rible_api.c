@@ -177,12 +177,12 @@ __WEAK rible_status_t rible_gatts_rw_auth_reply(uint16_t conn_handle,
     return RI_SUCCESS;
 }
 
-__WEAK rible_status_t rible_log_printf(const char * sFormat, ...)
+__WEAK rible_status_t mible_log_printf(const char * sFormat, ...)
 {
     return RI_SUCCESS;
 }
 
-__WEAK rible_status_t rible_log_hexdump(void* array_base, uint16_t array_size)
+__WEAK rible_status_t mible_log_hexdump(void* array_base, uint16_t array_size)
 {
     return RI_SUCCESS;
 }
